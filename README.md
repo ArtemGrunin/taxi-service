@@ -3,7 +3,7 @@
 - [Description](#Description)
 - [Technologies](#Technologies)
 - [How to run app](#How to run app)
-- [Screenshots](#Screenshots)
+- [Author](#Author)
 
 ### Description
 This web application is a simple taxi service 
