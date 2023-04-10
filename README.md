@@ -2,7 +2,7 @@
 
 - [Description](#Description)
 - [Technologies](#Technologies)
-- [How to run app](#How to run app)
+- [How to run app](#How-to-run-app)
 - [Author](#Author)
 
 ### Description
